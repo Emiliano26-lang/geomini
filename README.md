@@ -10,4 +10,4 @@ https://fontbob.com/geomini
 
 This font is licensed under the SIL Open Font License, Version 1.1.
 
-See [OFL.txt](OFL.txt) for details.
+See OFL.txt for details.
