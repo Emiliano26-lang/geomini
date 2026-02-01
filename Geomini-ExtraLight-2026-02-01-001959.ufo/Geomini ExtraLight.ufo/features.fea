@@ -1,0 +1,88 @@
+# Language system declarations
+languagesystem DFLT dflt;
+languagesystem latn dflt;
+languagesystem latn NLD;
+
+
+table GDEF {
+    GlyphClassDef
+        [uni0041 uni0043 uni0044 uni0045 uni0047 uni0049 uni004A uni004B uni004C uni004E uni004F uni0052 uni0053 uni0054 uni0055 uni0057 uni0059 uni005A uni0061 uni0063 uni0065 uni0067 uni0069 uni006A uni006B uni006C uni006E uni006F uni0072 uni0073 uni0074 uni0075 uni0077 uni0079 uni007A uni0131 uni0237],
+        [uni0300 uni0301 uni0302 uni0303 uni0304 uni0306 uni0307 uni0308 uni030A uni030B uni030C uni0326 uni0327 uni0328],
+        ,
+        ;
+} GDEF;
+
+feature mark {
+    script latn;
+    language dflt;
+    language NLD;
+    markClass uni0300 <anchor 116 -1> @MARK_BOTTOM;
+    markClass uni0301 <anchor 116 -1> @MARK_BOTTOM;
+    markClass uni0302 <anchor 116 -1> @MARK_BOTTOM;
+    markClass uni0303 <anchor 116 -1> @MARK_BOTTOM;
+    markClass uni0306 <anchor 116 -1> @MARK_BOTTOM;
+    markClass uni0307 <anchor 116 -1> @MARK_BOTTOM;
+    markClass uni0308 <anchor 116 -1> @MARK_BOTTOM;
+    markClass uni030A <anchor 116 -1> @MARK_BOTTOM;
+    markClass uni030B <anchor 116 -1> @MARK_BOTTOM;
+    markClass uni030C <anchor 116 -1> @MARK_BOTTOM;
+    markClass uni0326 <anchor 116 -1> @MARK_BOTTOM;
+    markClass uni0327 <anchor 116 -1> @MARK_BOTTOM;
+    markClass uni0328 <anchor 116 -1> @MARK_BOTTOM;
+    markClass uni0304 <anchor 188 579> @MARK_TOP;
+    position base uni0041 <anchor 349 719> mark @MARK_TOP;
+    position base uni0041 <anchor 656 10> mark @MARK_BOTTOM;
+    position base uni0043 <anchor 384 717> mark @MARK_TOP;
+    position base uni0043 <anchor 401 0> mark @MARK_BOTTOM;
+    position base uni0044 <anchor 323 709> mark @MARK_TOP;
+    position base uni0045 <anchor 317 711> mark @MARK_TOP;
+    position base uni0045 <anchor 485 14> mark @MARK_BOTTOM;
+    position base uni0047 <anchor 390 714> mark @MARK_TOP;
+    position base uni0047 <anchor 397 -1> mark @MARK_BOTTOM;
+    position base uni0049 <anchor 94 711> mark @MARK_TOP;
+    position base uni0049 <anchor 94 0> mark @MARK_BOTTOM;
+    position base uni004A <anchor 348 727> mark @MARK_TOP;
+    position base uni004B <anchor 302 1> mark @MARK_BOTTOM;
+    position base uni004C <anchor 93 714> mark @MARK_TOP;
+    position base uni004C <anchor 284 1> mark @MARK_BOTTOM;
+    position base uni004E <anchor 341 713> mark @MARK_TOP;
+    position base uni004E <anchor 340 1> mark @MARK_BOTTOM;
+    position base uni004F <anchor 393 713> mark @MARK_TOP;
+    position base uni0052 <anchor 308 709> mark @MARK_TOP;
+    position base uni0053 <anchor 294 717> mark @MARK_TOP;
+    position base uni0053 <anchor 299 -1> mark @MARK_BOTTOM;
+    position base uni0054 <anchor 279 709> mark @MARK_TOP;
+    position base uni0054 <anchor 274 1> mark @MARK_BOTTOM;
+    position base uni0055 <anchor 340 708> mark @MARK_TOP;
+    position base uni0055 <anchor 336 -1> mark @MARK_BOTTOM;
+    position base uni0057 <anchor 440 707> mark @MARK_TOP;
+    position base uni0059 <anchor 299 708> mark @MARK_TOP;
+    position base uni005A <anchor 281 719> mark @MARK_TOP;
+    position base uni0061 <anchor 259 578> mark @MARK_TOP;
+    position base uni0061 <anchor 438 8> mark @MARK_BOTTOM;
+    position base uni0063 <anchor 337 578> mark @MARK_TOP;
+    position base uni0063 <anchor 325 0> mark @MARK_BOTTOM;
+    position base uni0065 <anchor 323 578> mark @MARK_TOP;
+    position base uni0065 <anchor 488 32> mark @MARK_BOTTOM;
+    position base uni0067 <anchor 286 577> mark @MARK_TOP;
+    position base uni0069 <anchor 96 1> mark @MARK_BOTTOM;
+    position base uni0069 <anchor 95 577> mark @MARK_TOP;
+    position base uni006A <anchor 93 577> mark @MARK_TOP;
+    position base uni006B <anchor 261 -2> mark @MARK_BOTTOM;
+    position base uni006C <anchor 106 709> mark @MARK_TOP;
+    position base uni006C <anchor 145 1> mark @MARK_BOTTOM;
+    position base uni006E <anchor 285 577> mark @MARK_TOP;
+    position base uni006E <anchor 305 0> mark @MARK_BOTTOM;
+    position base uni006F <anchor 340 578> mark @MARK_TOP;
+    position base uni0072 <anchor 205 577> mark @MARK_TOP;
+    position base uni0073 <anchor 237 576> mark @MARK_TOP;
+    position base uni0073 <anchor 228 -2> mark @MARK_BOTTOM;
+    position base uni0074 <anchor 229 3> mark @MARK_BOTTOM;
+    position base uni0075 <anchor 289 577> mark @MARK_TOP;
+    position base uni0075 <anchor 491 1> mark @MARK_BOTTOM;
+    position base uni0077 <anchor 402 575> mark @MARK_TOP;
+    position base uni0079 <anchor 265 578> mark @MARK_TOP;
+    position base uni007A <anchor 251 577> mark @MARK_TOP;
+    position base uni0131 <anchor 92 578> mark @MARK_TOP;
+    position base uni0237 <anchor 92 578> mark @MARK_TOP;
+} mark;
