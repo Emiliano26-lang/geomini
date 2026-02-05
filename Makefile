@@ -1,5 +1,5 @@
 # Python command (use py on Windows, or override: make PYTHON=python3 build)
-PYTHON ?= py
+PYTHON ?= python
 
 # Detect venv layout from Python: Windows uses Scripts/, Unix uses bin/
 VENV_SUBDIR := $(shell $(PYTHON) -c "import sys; print('Scripts' if sys.platform == 'win32' else 'bin')")
