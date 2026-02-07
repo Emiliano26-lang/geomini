@@ -18,27 +18,27 @@
     </source>
   </sources>
   <instances>
-    <instance filename="Geomini-Light.ttf" familyname="Geomini" stylename="Light">
+    <instance filename="Geomini-Light.ufo" familyname="Geomini" stylename="Light">
       <location>
         <dimension name="Weight" xvalue="300" />
       </location>
     </instance>
-    <instance filename="Geomini-Regular.ttf" familyname="Geomini" stylename="Regular">
+    <instance filename="Geomini-Regular.ufo" familyname="Geomini" stylename="Regular">
       <location>
         <dimension name="Weight" xvalue="400" />
       </location>
     </instance>
-    <instance filename="Geomini-Medium.ttf" familyname="Geomini" stylename="Medium">
+    <instance filename="Geomini-Medium.ufo" familyname="Geomini" stylename="Medium">
       <location>
         <dimension name="Weight" xvalue="500" />
       </location>
     </instance>
-    <instance filename="Geomini-SemiBold.ttf" familyname="Geomini" stylename="SemiBold">
+    <instance filename="Geomini-SemiBold.ufo" familyname="Geomini" stylename="SemiBold">
       <location>
         <dimension name="Weight" xvalue="600" />
       </location>
     </instance>
-    <instance filename="Geomini-Bold.ttf" familyname="Geomini" stylename="Bold">
+    <instance filename="Geomini-Bold.ufo" familyname="Geomini" stylename="Bold">
       <location>
         <dimension name="Weight" xvalue="700" />
       </location>
