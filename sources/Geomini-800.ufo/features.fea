@@ -48,6 +48,7 @@ feature mark {
     position base uni0049 <anchor 134 725> mark @MARK_TOP;
     position base uni0049 <anchor 134 -1> mark @MARK_BOTTOM;
     position base uni004A <anchor 448 737> mark @MARK_TOP;
+    position base uni004A <anchor 447 0> mark @MARK_BOTTOM;
     position base uni004B <anchor 308 -1> mark @MARK_BOTTOM;
     position base uni004C <anchor 145 718> mark @MARK_TOP;
     position base uni004C <anchor 287 -1> mark @MARK_BOTTOM;
