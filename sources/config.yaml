@@ -1,14 +1,18 @@
-# Build Geomini from UFO source (Geomini-ExtraLight-2026-02-01-001959.ufo)
+# Build Geomini from designspace (Geomini-200.ufo, Geomini-800.ufo)
 sources:
-  - GeominiExtraLight.ufo
+  - Geomini.designspace
+  - Geomini-200.ufo
+  - Geomini-800.ufo
 familyName: "Geomini"
 
 buildOTF: false
 
 stat:
-  GeominiExtraLight.ttf:
+  Geomini-VF.ttf:
   - name: Weight
     tag: wght
     values:
     - name: Extra Light
       value: 200
+    - name: Heavy
+      value: 800
