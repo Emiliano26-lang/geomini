@@ -13,18 +13,17 @@
 [Outline Correctness]: https://img.shields.io/endpoint?url=https%3A%2F%2Ffontbob.github.io%2Fgeomini%2Fbadges%2FOutlineCorrectnessChecks.json
 [Glyphset]: https://img.shields.io/endpoint?url=https%3A%2F%2Ffontbob.github.io%2Fgeomini%2Fbadges%2FGlyphsetChecks.json
 
-Geomini is a geometric sans-serif font.
-
-- Geometric sans-serif
-- Made for text / titles / UI
-- Super high x-height
+Geomini is a compact geometric font suited for text, titles and interfaces.
+It balances clear letterforms with efficient spacing, making it work both small and big.
 
 ![Sample Image](documentation/image1.png)
 ![Sample Image](documentation/image2.png)
 
 ## About
 
-Description of you and/or organisation goes here.
+This font is published by the FontBob team.
+
+FontBob is font editor focused on making type design more accessible.
 
 ## Building
 
