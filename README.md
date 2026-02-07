@@ -13,16 +13,21 @@
 [Outline Correctness]: https://img.shields.io/endpoint?url=https%3A%2F%2Ffontbob.github.io%2Fgeomini%2Fbadges%2FOutlineCorrectnessChecks.json
 [Glyphset]: https://img.shields.io/endpoint?url=https%3A%2F%2Ffontbob.github.io%2Fgeomini%2Fbadges%2FGlyphsetChecks.json
 
-Geomini is a geometric sans-serif font family.
+Geomini is a compact geometric font suited for text, titles and interfaces.
+It balances clear letterforms with efficient spacing, making it work both small and big.
 
-**TODO:** Further description of your font goes here. We recommend to start with a very short presentation line (the kind you would use on twitter to present your project for example), and then add as much details as necesary :-) Origin of the project, idea of usage, concept of creation… but also number of masters, axes, character sets, etc.
+<a href="http://fontbob.com/app/?remixFontId=49721a3c-9bff-48fa-82c1-d89c2054fadf" target="_blank"><img height="45px" src="https://fontbob.com/images/remix.svg" alt="Remix" /></a>
+
+<a href="http://fontbob.com/font/49721a3c-9bff-48fa-82c1-d89c2054fadf" target="_blank"><img height="45px" src="https://fontbob.com/images/download.svg" alt="Download" /></a>
 
 ![Sample Image](documentation/image1.png)
 ![Sample Image](documentation/image2.png)
 
 ## About
 
-Description of you and/or organisation goes here.
+This font is published by the FontBob team.
+
+FontBob is font editor focused on making type design more accessible.
 
 ## Building
 
