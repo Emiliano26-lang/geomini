@@ -15,7 +15,9 @@
 
 Geomini is a geometric sans-serif font family.
 
-**TODO:** Further description of your font goes here. We recommend to start with a very short presentation line (the kind you would use on twitter to present your project for example), and then add as much details as necesary :-) Origin of the project, idea of usage, concept of creation… but also number of masters, axes, character sets, etc.
+- Geometric sans-serif
+- Made for text / titles / UI
+- Super high x-height
 
 ![Sample Image](documentation/image1.png)
 ![Sample Image](documentation/image2.png)
