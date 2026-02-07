@@ -6,12 +6,12 @@
       <map input="800" output="800" />    </axis>
   </axes>
   <sources>
-    <source filename="Geomini-200.ufo" name="weight_200" familyname="Geomini" stylename="ExtraLight">
+    <source filename="Geomini-ExtraLight.ufo" name="weight_200" familyname="Geomini" stylename="ExtraLight">
       <location>
         <dimension name="Weight" xvalue="200" />
       </location>
     </source>
-    <source filename="Geomini-800.ufo" name="weight_800" familyname="Geomini" stylename="ExtraBold">
+    <source filename="Geomini-ExtraBold.ufo" name="weight_800" familyname="Geomini" stylename="ExtraBold">
       <location>
         <dimension name="Weight" xvalue="800" />
       </location>
