@@ -1,17 +1,17 @@
 # Geomini font
 
-[![][Fontspector]](https://fontbob.github.io/geomini.git/fontspector/fontspector-report.html)
-[![][OpenType]](https://fontbob.github.io/geomini.git/fontspector/fontspector-report.html)
-[![][Universal]](https://fontbob.github.io/geomini.git/fontspector/fontspector-report.html)
-[![][Google Fonts]](https://fontbob.github.io/geomini.git/fontspector/fontspector-report.html)
-[![][Glyphset]](https://fontbob.github.io/geomini.git/fontspector/fontspector-report.html)
+[![][Fontspector]](https://fontbob.github.io/geomini/fontspector/fontspector-report.html)
+[![][OpenType]](https://fontbob.github.io/geomini/fontspector/fontspector-report.html)
+[![][Universal]](https://fontbob.github.io/geomini/fontspector/fontspector-report.html)
+[![][Google Fonts]](https://fontbob.github.io/geomini/fontspector/fontspector-report.html)
+[![][Glyphset]](https://fontbob.github.io/geomini/fontspector/fontspector-report.html)
 
-[Fontspector]: https://img.shields.io/endpoint?url=https%3A%2F%2Ffontbob.github.io%2Fgeomini.git%2Fbadges%2FFontspectorQA.json
-[OpenType]: https://img.shields.io/endpoint?url=https%3A%2F%2Ffontbob.github.io%2Fgeomini.git%2Fbadges%2FOpentypeSpecificationChecks.json
-[Universal]: https://img.shields.io/endpoint?url=https%3A%2F%2Ffontbob.github.io%2Fgeomini.git%2Fbadges%2FUniversalProfileChecks.json
-[Google Fonts]: https://img.shields.io/endpoint?url=https%3A%2F%2Ffontbob.github.io%2Fgeomini.git%2Fbadges%2FFontFileChecks.json
-[Outline Correctness]: https://img.shields.io/endpoint?url=https%3A%2F%2Ffontbob.github.io%2Fgeomini.git%2Fbadges%2FOutlineCorrectnessChecks.json
-[Glyphset]: https://img.shields.io/endpoint?url=https%3A%2F%2Ffontbob.github.io%2Fgeomini.git%2Fbadges%2FGlyphsetChecks.json
+[Fontspector]: https://img.shields.io/endpoint?url=https%3A%2F%2Ffontbob.github.io%2Fgeomini%2Fbadges%2FFontspectorQA.json
+[OpenType]: https://img.shields.io/endpoint?url=https%3A%2F%2Ffontbob.github.io%2Fgeomini%2Fbadges%2FOpentypeSpecificationChecks.json
+[Universal]: https://img.shields.io/endpoint?url=https%3A%2F%2Ffontbob.github.io%2Fgeomini%2Fbadges%2FUniversalProfileChecks.json
+[Google Fonts]: https://img.shields.io/endpoint?url=https%3A%2F%2Ffontbob.github.io%2Fgeomini%2Fbadges%2FFontFileChecks.json
+[Outline Correctness]: https://img.shields.io/endpoint?url=https%3A%2F%2Ffontbob.github.io%2Fgeomini%2Fbadges%2FOutlineCorrectnessChecks.json
+[Glyphset]: https://img.shields.io/endpoint?url=https%3A%2F%2Ffontbob.github.io%2Fgeomini%2Fbadges%2FGlyphsetChecks.json
 
 Geomini is a geometric sans serif font family.
 
@@ -34,7 +34,7 @@ If you want to build fonts manually on your own computer:
 - `make test` will run [FontBakery](https://github.com/googlefonts/fontbakery)'s quality assurance tests.
 - `make proof` will generate HTML proof files.
 
-The proof files and QA tests are also available automatically via GitHub Actions - look at https://fontbob.github.io/geomini.git.
+The proof files and QA tests are also available automatically via GitHub Actions - look at https://fontbob.github.io/geomini.
 
 ## Changelog
 
