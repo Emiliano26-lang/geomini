@@ -1,11 +1,10 @@
 feature ccmp {
-    lookup ccmp_j_acute { sub uni006A uni0301 by uni0237; } ccmp_j_acute;
+    sub uni006A uni0301 by uni0237 uni0301;
 } ccmp;
 
 # Language system declarations
 languagesystem DFLT dflt;
 languagesystem latn dflt;
-languagesystem latn NLD;
 
 
 table GDEF {
@@ -19,7 +18,6 @@ table GDEF {
 feature mark {
     script latn;
     language dflt;
-    language NLD;
     markClass uni00B8 <anchor 86 0> @MARK_BOTTOM;
     markClass uni02DB <anchor 118 0> @MARK_BOTTOM;
     markClass uni0326 <anchor 116 -1> @MARK_BOTTOM;
