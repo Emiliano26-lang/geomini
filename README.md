@@ -38,6 +38,15 @@ If you want to build fonts manually on your own computer:
 - `make test` will run FontSpector quality assurance tests.
 - `make proof` will generate HTML proof files.
 
+Required before running `make` (example how to install on Ubuntu):
+
+```bash
+sudo apt install -y make
+sudo apt install -y gcc
+sudo apt install -y python3.12-venv
+python3 -m venv venv
+```
+
 The proof files and QA tests are also available automatically via GitHub Actions - look at https://fontbob.github.io/geomini.
 
 ## Changelog
