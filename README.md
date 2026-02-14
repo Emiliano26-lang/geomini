@@ -1,4 +1,4 @@
-# Geomini font
+# Geomini is a compact geometric font for text, titles and interfaces
 
 [![][Fontspector]](https://fontbob.github.io/geomini/fontspector/fontspector-report.html)
 [![][OpenType]](https://fontbob.github.io/geomini/fontspector/fontspector-report.html)
@@ -12,8 +12,6 @@
 [Google Fonts]: https://img.shields.io/endpoint?url=https%3A%2F%2Ffontbob.github.io%2Fgeomini%2Fbadges%2FFontFileChecks.json
 [Outline Correctness]: https://img.shields.io/endpoint?url=https%3A%2F%2Ffontbob.github.io%2Fgeomini%2Fbadges%2FOutlineCorrectnessChecks.json
 [Glyphset]: https://img.shields.io/endpoint?url=https%3A%2F%2Ffontbob.github.io%2Fgeomini%2Fbadges%2FGlyphsetChecks.json
-
-Geomini is a compact geometric font for text, titles and interfaces.
 
 <a href="http://fontbob.com/geomini" target="_blank"><img height="45px" src="https://fontbob.com/images/download.svg" alt="Download" /></a>
 
